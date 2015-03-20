@@ -5,13 +5,13 @@
 * User generated content
 * Tester app included
 * Fastest way through DP, O(n) time complexity
-###Instructions
+### Instructions
 * clone repo
 * src contains java classes
 * images and sample user input file already in repo
 * change file path accordingly in Tester.java
 * run Tester.java
-###Input File Format
+### Input File Format
 * All inputs should be space separated
 * Line 1: Entry times for line 1 and line 2
 * Line 2: Exit times for line 1 and line 2, must be equal in number to previous line
